@@ -1,3 +1,5 @@
-# feather-modular-interface
+# CircuitART Feather Interface
 
-![alt text](https://github.com/CircuitART/esp32s2_core/blob/main/esp32s2_core.png?raw=true)
+![alt text](https://github.com/CircuitART/feather-modular-interface/blob/main/CircuitART%20carrier.png?raw=true)
+
+CircuitART Feather Interface is a A modular ecosystem of interchangeable processors and carrier board that is packed with features to enable rapid prototyping and development.
