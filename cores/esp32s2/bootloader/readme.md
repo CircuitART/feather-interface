@@ -14,6 +14,8 @@ sudo apt-get install git wget flex bison gperf python3 python3-pip python3-setup
 ``` 
 $ git clone --recurse-submodules https://github.com/adafruit/tinyuf2
 ```
+### Step 3
+Download the bootloader board specific folder from above and copy it to tinyuf2/ports/esp32s2/boards
 ### Step 3 Setup the tool and  the environment variables
 ``` 
 cd ~/tinyuf2/lip/esp-idf
